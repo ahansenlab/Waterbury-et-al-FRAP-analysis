@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/643759002.svg)](https://zenodo.org/doi/10.5281/zenodo.11089013)
+
 # Waterbury-et-al-FRAP-analysis
 This repository contains the fluorescence recovery after photobleaching (FRAP) analysis code used to analyze the data in the manuscript "Dynamic Masking by a Disordered Region Controls LSD1 Enhancer Silencing" by Waterbury et al. The code provided here in a python jupyter notebook format performs the following basic functions:
 - reads and aggregates csv files containing bleaching data after drift correction with these columns: time, intensity, intensity_raw, nonbleach, corrected_nonbleach, nuclear_radius, roi_radius, gap_ratio, bleaching_depth, radius_uniform, bleach_distances, bleach_profile
